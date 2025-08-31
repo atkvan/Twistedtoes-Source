@@ -1,0 +1,1 @@
+350x350 icons btw, if not it will be automatically re-sized to 350x350.
